@@ -2,7 +2,6 @@
 
 ## User
 Michael (Front Desk)
-### Priority: High
 
 ###### Priority: High
 
