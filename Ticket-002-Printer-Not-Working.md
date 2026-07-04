@@ -116,9 +116,9 @@ Testing with a windows test page confirms both printer communication and driver 
 
 ## Commands / Tools Used
 
-services.msc
-Print Management
-Settings → Printers & Scanners
-Windows Print Spooler
-Windows Test Page
-File Explorer
+* services.msc
+* Print Management
+* Settings → Printers & Scanners
+* Windows Print Spooler
+* Windows Test Page
+* File Explorer
