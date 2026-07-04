@@ -80,7 +80,7 @@ Selected:
 Add printer
 - Windows rediscoverd the printer and installed it successfully
 
-### 5.
+### 5. Printed Test Page
 Printed a windows test page.
 
 **Result:**
